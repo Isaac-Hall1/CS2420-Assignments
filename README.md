@@ -11,7 +11,7 @@ All Even CS2420 Assignments (Odds are on coding partners system)
 ## A6: 43 / 60
 ### Major accidental issue on index check when adding, is fixed in given file
 ## A8: 61/65
-### Didn't test all remove() funciton edge cases
+### Didn't test all of the remove() function edge cases
 ## A10: 64/65
 ### No points lost for code
 ## Comprehensive project: 70/70
